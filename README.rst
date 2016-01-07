@@ -1,7 +1,7 @@
 Simple Neural Network
 =====================
 
-Work in progress, currently in development. I am trying to create my own Neural Network library for Python. If you’re searching for something working and well optimised you should check (PyBrain)[http://pybrain.org/].
+Work in progress, currently in development. I am trying to create my own Neural Network library for Python 3. If you’re searching for something working and well optimised you should check [PyBrain](http://pybrain.org/).
 
 This is mainly for fun. (:
 
